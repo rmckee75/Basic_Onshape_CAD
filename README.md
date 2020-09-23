@@ -20,3 +20,9 @@ In this assignment, I built a tire for the caster, which taught me how to use re
 ![alt text](images/wheel.png)
 ### Reflection
 In this assignment, I built the wheel of the caster in Onshape, and I learned how to circular pattern. Onshape is definitely more intuitive than Solidworks, and it allows you to have more flexibility in what you can extrude or revolve.
+## Axle, Collar, and Bearing
+![alt text](images/axle-collar.png)
+![alt text](images/wheel-bearing.png)
+![alt text](images/bearing2(washer).png)
+### Reflection
+In this assignment, I built 4 simple parts: an axle, a collar on the axle, and 2 bearings which will allow parts to rotate. This taught me how to use the "use" feature on Onshape, which is a unique feature that allows you to build two separate parts in the same part studio.  This is very helpful because it means that the parts' geometry is automatically linked, and you don't have to go back and forth checking the dimensions.
