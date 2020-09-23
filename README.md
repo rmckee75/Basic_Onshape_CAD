@@ -16,3 +16,7 @@ In this assignment, I built the fork for the caster which will help attach the w
 ![alt text](images/tire.png)
 ### Reflection
 In this assignment, I built a tire for the caster, which taught me how to use revolve and how to change color in Onshape.
+## Wheel
+![alt text](images/wheel.png)
+### Reflection
+In this assignment, I built the wheel of the caster in Onshape, and I learned how to circular pattern. Onshape is definitely more intuitive than Solidworks, and it allows you to have more flexibility in what you can extrude or revolve.
