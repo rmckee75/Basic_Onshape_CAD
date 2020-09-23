@@ -8,3 +8,7 @@ In this assignment, I built a base for the caster which is composed of a rectang
 ![alt text](images/mount.png)
 ### Reflection
 In this assignment, I built a mount for the caster which is a square plate with 4 small holes and 1 large hole. In the future, I might make two separate sketches for the holes and the plate so that I could delete one without messing up the other one.  For now, I've decided to make each piece of the caster its own part studio within one document, but I might start putting multiple parts in one part studio if that proves easier.
+## Fork
+![alt text](images/fork.png)
+### Reflection
+In this assignment, I built the fork for the caster which will help attach the wheel to the base.  I learned how to do fillets, chamfers, and mirrors in Onshape, which are all very easy to use.
