@@ -12,3 +12,7 @@ In this assignment, I built a mount for the caster which is a square plate with 
 ![alt text](images/fork.png)
 ### Reflection
 In this assignment, I built the fork for the caster which will help attach the wheel to the base.  I learned how to do fillets, chamfers, and mirrors in Onshape, which are all very easy to use.
+## Tire
+![alt text](images/tire.png)
+### Reflection
+In this assignment, I built a tire for the caster, which taught me how to use revolve and how to change color in Onshape.
