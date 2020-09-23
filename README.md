@@ -26,3 +26,7 @@ In this assignment, I built the wheel of the caster in Onshape, and I learned ho
 ![alt text](images/bearing2(washer).png)
 ### Reflection
 In this assignment, I built 4 simple parts: an axle, a collar on the axle, and 2 bearings which will allow parts to rotate. This taught me how to use the "use" feature on Onshape, which is a unique feature that allows you to build two separate parts in the same part studio.  This is very helpful because it means that the parts' geometry is automatically linked, and you don't have to go back and forth checking the dimensions.
+## Wheel Sub-Assembly
+![alt text](images/wheelsubassembly.png)
+### Reflection
+In this assignment, I built a subassembly of the caster with the wheel, the tire, the axle, and 2 bearings. I learned how to use fasten and revolute mates, and how to create multiple versions of one document.  Although the video recommended creating a version of each part before I put it into the assembly, because all of my parts are in one document, I was able to create a version of the whole caster document right before I began assembling, so that if I messed up, or modified a part in the assembly, I could easily retrieve the older version.
