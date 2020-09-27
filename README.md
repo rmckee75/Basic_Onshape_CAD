@@ -30,3 +30,7 @@ In this assignment, I built 4 simple parts: an axle, a collar on the axle, and 2
 ![alt text](images/wheelsubassembly.png)
 ### Reflection
 In this assignment, I built a subassembly of the caster with the wheel, the tire, the axle, and 2 bearings. I learned how to use fasten and revolute mates, and how to create multiple versions of one document.  Although the video recommended creating a version of each part before I put it into the assembly, because all of my parts are in one document, I was able to create a version of the whole caster document right before I began assembling, so that if I messed up, or modified a part in the assembly, I could easily retrieve the older version.
+## Final Caster Assembly
+![alt text](images/finalcasterassembly.png)
+### Reflection
+In this assignment, I assembled all of the parts I had made to create the caster (which could go on a shopping cart, or something that needed wheels). I learned how to use parallel mates, and how to insert bolts, nuts, and pins (standard content). I had a little trouble getting the offsets right on the pins in the collar/axle, but I'm finding Onshape very easy to use, as the mates are much simpler when you usually only have to line one set of edges to get what you want, rather than 2 or 3.
