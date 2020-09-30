@@ -34,3 +34,8 @@ In this assignment, I built a subassembly of the caster with the wheel, the tire
 ![alt text](images/finalcasterassembly.png)
 ### Reflection
 In this assignment, I assembled all of the parts I had made to create the caster (which could go on a shopping cart, or something that needed wheels). I learned how to use parallel mates, and how to insert bolts, nuts, and pins (standard content). I had a little trouble getting the offsets right on the pins in the collar/axle, but I'm finding Onshape very easy to use, as the mates are much simpler when you usually only have to line one set of edges to get what you want, rather than 2 or 3.
+## Dorothy's Dowel Pins
+![alt text](images/pictureframe.png)
+![alt text](images/pictureframe-with-dowelpins.png)
+### Reflection
+In this assignment, I created "wooden" dowel pins, which taught me how to use configurations in Onshape. Onshape configurations are much easier to use than Solidworks, as dimensions can easily be changed in a built in table, and it's very easy to switch between configurations.  I then created 2 differently sized configurations of a trapezoidal "wooden" block and used two configurations of dowel pins (with different lengths and diameters) to assemble 4 of the blocks together in order to create a picture frame.
