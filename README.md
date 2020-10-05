@@ -1,5 +1,5 @@
 # Basic Onshape CAD
-Engineering 4 assignments to learn Onshape, and build a caster.
+Engineering 4 assignments to learn Onshape, including the caster mini-project.
 ## Base
 ![alt text](images/base.png)
 ### Reflection
