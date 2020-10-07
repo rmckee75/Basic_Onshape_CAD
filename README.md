@@ -39,3 +39,7 @@ In this assignment, I assembled all of the parts I had made to create the caster
 ![alt text](images/Pictureframe-with-dowelpins.png)
 ### Reflection
 In this assignment, I created "wooden" dowel pins, which taught me how to use configurations in Onshape. Onshape configurations are much easier to use than Solidworks, as dimensions can easily be changed in a built in table, and it's very easy to switch between configurations.  I then created 2 differently sized configurations of a trapezoidal "wooden" block and used two configurations of dowel pins (with different lengths and diameters) to assemble 4 of the blocks together in order to create a picture frame.
+## Onshape Challenge
+![alt text](videos/onshapechallenge.webm)
+### Reflection
+In this assignment, I got to practice with the Onshape skills I had just learned, in order to build a cube which spins while locked between two "spinner shafts." I had a little trouble figuring out exactly which mates to use in the assembly, but it ended up being pretty easy to just create two cylindrical mates between the bracket and the shafts, and then 4 revolute mates between the shafts and the cube. Additionally, to create a thin feature for the bracket, I ended up extruding the line as a surface, and then using the thicken tool for 2.5 mm on each side.
